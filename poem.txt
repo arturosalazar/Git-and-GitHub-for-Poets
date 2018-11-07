@@ -15,3 +15,7 @@ and the unicorn.
 Cake
 Cupcake
 Pies
+
+Ice Cream
+Paletas
+Nieve
